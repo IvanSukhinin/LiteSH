@@ -1,0 +1,7 @@
+bin/daemon
+bin/file-app
+bin/rpc_client
+bin/server
+build/*.o
+libserverlog.so
+data.dat
